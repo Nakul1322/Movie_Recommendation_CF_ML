@@ -48,7 +48,7 @@ This project uses the **MovieLens 20M Dataset**, which contains 20 million ratin
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Nakul1322/Movie_Recommendation_CF_ML.git](https://github.com/Nakul1322/Movie_Recommendation_CF_ML.git)
+    git clone https://github.com/Nakul1322/Movie_Recommendation_CF_ML.git
     cd Movie_Recommendation_CF_ML
     ```
 
