@@ -2,7 +2,6 @@
 
 **Author:** Nakul Magotra  
 **Course:** CSCI 6970 – Machine Learning  
-**Project:** Final Course Project – MS in Computer Science
 
 ## 📌 Project Overview
 This project implements and compares multiple recommendation system architectures to predict user movie ratings. Moving beyond simple similarity matching, this study evaluates traditional **Collaborative Filtering** techniques against a **Feature-Based Machine Learning** approach using Gradient Boosting.
@@ -49,8 +48,8 @@ This project uses the **MovieLens 20M Dataset**, which contains 20 million ratin
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/movie-recommendation-system.git](https://github.com/your-username/movie-recommendation-system.git)
-    cd movie-recommendation-system
+    git clone [https://github.com/Nakul1322/Movie_Recommendation_CF_ML.git](https://github.com/Nakul1322/Movie_Recommendation_CF_ML.git)
+    cd Movie_Recommendation_CF_ML
     ```
 
 2.  **Install dependencies:**
